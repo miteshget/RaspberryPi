@@ -5,7 +5,7 @@ from gpiozero import LED
 import time
 
 K = input("Sleep for: ")
-led1 = LED(13)
+led1 = LED(16)
 led2 = LED(17)
 led3 = LED(18)
 
